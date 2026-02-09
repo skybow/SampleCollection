@@ -80,6 +80,10 @@
         "hide": true
       },
       {
+        "key": "workflowsCommand",
+        "hide": true
+      },
+      {
         "key": "edit",
         "position": 3
       },
