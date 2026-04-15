@@ -6,3 +6,11 @@ Use the import functionality to import the provided styles to your forms: [Expor
 Styled as "dark" (position 3 from the left), "light" (at position 4) and "gray" (at position 5)
 
 ![Screenshot](assets/commandbar_button_styles_gray_and_light.png)
+
+
+### CommandBar DefaultButtons on Forms
+Style all buttons with default style gray when applying the *Styles_CommandBar_DefaultButtons_gray.json* style to your command bar. 
+
+This way your buttons will always look like buttons even if you don't apply a specific style.
+
+![Screenshot](assets/commandbar_defaultbuttons_styles_gray.png)
