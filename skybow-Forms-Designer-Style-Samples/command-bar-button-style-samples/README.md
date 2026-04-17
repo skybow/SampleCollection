@@ -7,6 +7,8 @@ Styled as "dark" (position 3 from the left), "light" (at position 4) and "gray" 
 
 ![Screenshot](assets/commandbar_button_styles_gray_and_light.png)
 
+Styled as "red" for Buttons like Delete, Decline, Cancel
+![Screenshot](assets/commandbar_button_styles_red.png)
 
 ### CommandBar DefaultButtons on Forms
 Style all buttons with default style gray when applying the *Styles_CommandBar_DefaultButtons_gray.json* style to your command bar. 
